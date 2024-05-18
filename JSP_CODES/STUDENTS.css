@@ -1,0 +1,32 @@
+.TASK1FORMVISIBLE
+{
+    visibility: hidden;
+}
+
+.TASK2FORMVISIBLE
+{
+    visibility: hidden;
+}
+
+.TASK1FORMINVISIBLE
+{
+    visibility: visible;
+}
+
+.TASK2FORMINVISIBLE
+{
+    visibility: visible;
+}
+
+.BUTTONVISIBLE
+{
+    visibility: hidden;
+    
+}
+
+.BUTTONINVISIBLE
+{
+    visibility: visible;
+    
+}
+
